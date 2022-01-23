@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My name is Gabriel Mendes
+### Hello, Devs!!
+
+I am a student of Information Systems at UNI FACEF, and I am an intern at IBSystem
