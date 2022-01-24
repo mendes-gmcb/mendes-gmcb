@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-gmcb&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/mendes-gmcb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mendes-gmcb/mendes-gmcb/blob/output/github-contribution-grid-snake.svg)
  
   
   <!--
