@@ -1,6 +1,34 @@
-### Hi there 👋
+# Fala Dev <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
 
-<!--
+<img align="center" dir="auto" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="mario coding" data-canonical-src="https://i.imgur.com/1ZvVkDc.gif" style="max-width: 100%;">
+
+
+
+## :bulb: Sobre mim:
+
+- Me chamo Gabriel Mendes e sou de Franca-SP
+
+- Curso Sistemas de Informação no Centro Universitário Municipal de Franca
+
+- Apaixonado por Desenvolvimento Web, em especial por Back End :purple_heart:
+
+- Estagiário na <a target="_blank" href="https://ibsystem.com.br/site_ibsystem/" >IBSystem</a> :bar_chart:
+
+## :crystal_ball: Tecnologias e ferramentas:
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img width="5%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+
+
+
+## :chart_with_upwards_trend: Estatísticas
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendes-gmcb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-gmcb&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/mendes-gmcb/blob/output/github-contribution-grid-snake.svg)
+ 
+  
+  <!--
 **mendes-gmcb/mendes-gmcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## My name is Gabriel Mendes
-### Hello, Devs!!
-
-I am a student of Information Systems at UNI FACEF, and I am an intern at IBSystem
