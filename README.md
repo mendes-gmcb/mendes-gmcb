@@ -12,7 +12,7 @@
 
 - Apaixonado por Desenvolvimento Web, em especial por Back End :purple_heart:
 
-- Dev. Jr. na <a target="_blank" href="https://ibsystem.com.br/site_ibsystem/" >ibSystem</a> :bar_chart:
+- Dev jr na <a target="_blank" href="https://ibsystem.com.br/site_ibsystem/" >ibSystem</a> :bar_chart:
 
 ### Contatos:
 
