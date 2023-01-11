@@ -34,6 +34,8 @@
 </div>
 
 ![Snake animation](https://github.com/mendes-gmcb/mendes-gmcb/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/mendes-gmcb/mendes-gmcb/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/mendes-gmcb/mendes-gmcb/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  
   
   <!--
